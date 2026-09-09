@@ -6,13 +6,12 @@ This repository currently contains the drone autonomy research atlas and project
 
 ## Open the atlas
 
-Clone this repository and open [drone-autonomy-atlas.html](research/atlas/drone-autonomy-atlas.html) in a browser. The file works offline without installation or a web server; external source links require internet access.
+Clone this repository and open [drone-autonomy-atlas.html](research/drone-autonomy-atlas.html) in a browser. The file works offline without installation or a web server; external source links require internet access.
 
 The atlas includes assembled autonomy systems, focused components, and a **Project direction** essay describing the intended application. It contains 159 project records and 126 sourced relationships.
 
 ## Repository contents
 
-- [research/atlas/](research/atlas/): standalone atlas, interface sources, dataset, build scripts, browser checks, and previews.
-- [research/evidence/](research/evidence/): saved research sources and audits supporting the atlas.
+- [research/](research/): standalone atlas, interface sources, dataset, build scripts, browser checks, and previews.
 
-See the [atlas README](research/atlas/README.md) for navigation, evidence boundaries, rebuilding, and verification instructions. Saved third-party material retains its original authorship and applicable terms.
+Saved third-party material retains its original authorship and applicable terms.

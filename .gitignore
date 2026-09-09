@@ -4,3 +4,9 @@ __pycache__/
 .env
 .env.*
 !.env.example
+research/evidence/
+research/DESIGN.md
+*.png
+*.py
+node_modules/
+research/browser-checks.json
